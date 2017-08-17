@@ -1,0 +1,30 @@
+body{
+  background: black;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.hide {
+  display:none;
+}
+
+/* #slideshow {
+  position:rlative;
+  height:400px;
+}
+
+#slideshow img {
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:8;
+}
+
+#slideshow img.active {
+  z-index:10;
+}
+
+#slideshow img.last-active {
+  z-index:9;
+} */
